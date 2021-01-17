@@ -1,0 +1,20 @@
+.count {
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+}
+
+.state {
+  margin-top: 20px;
+  border: solid gray;
+  border-radius: 6px;
+  box-shadow: 5px 10px 6px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.state p {
+  margin: 5px;
+}
+
+.btn-dark {font-size: 1em;}
